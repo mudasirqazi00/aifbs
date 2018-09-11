@@ -1,2 +1,2 @@
-# aifbs
-The repository contains the implementation of Accumulative Interest Forwarding and B-Structure Content-Store Architecture for NDN, called AIFBS in short. The implementation is done on the top of ndnSIM 2.3, which is an ns-3 based simulator developed for the sole purpose of NDN experimentation.
+# Accumulative Interest Forwarding and B-Structure (AIFBS)
+The repository contains the implementation of Accumulative Interest Forwarding and B-Structure Content-Store Architecture for NDN, called AIFBS in short. The implementation is done on the top of ndnSIM 2.3, which is an ns-3 based simulator developed for the sole purpose of NDN experimentation. I have proposed this scheme to to increase the Network Lifetime of a Wireless Sensor Network (WSN) in my MS thesis.
